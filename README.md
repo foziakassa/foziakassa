@@ -6,7 +6,7 @@ I enjoy turning ideas into practical solutions using React, Next.js, TypeScript,
 
 ## About Me
 
-- Frontend-focused developer with a strong eye for design and UX
+- Frontend-focused mobile and wed developer with a strong eye for design and UX
 - Full-stack experience building web applications and product experiences
 - Interested in clean architecture, maintainable code, and real-world problem solving
 - Always learning and improving through hands-on project work
@@ -62,7 +62,7 @@ I enjoy turning ideas into practical solutions using React, Next.js, TypeScript,
 ## Connect
 
 - GitHub: [@foziakassa](https://github.com/foziakassa)
-- Portfolio: [Add your portfolio link]
-- Email: [Add your email]
+- Portfolio: https://portfolio-navy-eta-dlijjm3ly7.vercel.app/about
+- Email: foziakassa19@gmail.com
 
 > “I build digital products that are useful, thoughtful, and easy to use.”
