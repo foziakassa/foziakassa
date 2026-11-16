@@ -1,6 +1,6 @@
 # Hi, I'm Fozia Kassa 👋
 
-A passionate frontend and full-stack developer focused on building modern, responsive, and user-friendly digital products.
+A passionate Software Engineer focused on building modern, responsive, and user-friendly digital products.
 
 I enjoy turning ideas into practical solutions using React, Next.js, TypeScript, JavaScript, Flutter, and Node.js.
 
