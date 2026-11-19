@@ -55,14 +55,6 @@ I enjoy turning ideas into practical solutions using React, Next.js, TypeScript,
 - Creating practical apps that solve real user problems
 - Expanding my skills in full-stack development and product thinking
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foziakassa&show_icons=true&theme=radical)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=foziakassa&show_icons=true&theme=radical" alt="foziakassa GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foziakassa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## Connect
 
